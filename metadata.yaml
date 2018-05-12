@@ -1,0 +1,40 @@
+_repo: Soldados-da-Revolu--o_29997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Quental, Anthero de
+    - Tarquino do Quental, Anthero
+    - Tarquinio de Quental, Anthero
+    - De Quental, Antero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+  editor:
+    agent_name: Veloso, Rodrigo
+    gutenberg_agent_id: '34297'
+    url: http://www.gutenberg.org/2009/agents/34297
+description: ''
+gutenberg_issued: '2009-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29997'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quental, Antero de, 1842-1891 -- Correspondence'
+- !lcc 'DC'
+- !lcsh 'Michelet, Jules, 1798-1874. Soldats de la révolution'
+- !lcsh 'Leal, Fernando, 1846-1910'
+title: Soldados da Revolução
+url: http://www.gutenberg.org/ebooks/29997
